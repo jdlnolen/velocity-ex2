@@ -4,4 +4,4 @@ velocity-example
 A leaderboard example with velocity configured with jasmine-unit &amp; mocha web
 
 
-Configured for travis
+Configured for Travis CI
